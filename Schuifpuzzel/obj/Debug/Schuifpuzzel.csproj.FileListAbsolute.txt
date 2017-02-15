@@ -1,0 +1,9 @@
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Schuifpuzzel\bin\Debug\Schuifpuzzel.exe.config
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Schuifpuzzel\bin\Debug\Schuifpuzzel.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Schuifpuzzel\bin\Debug\Schuifpuzzel.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Schuifpuzzel\obj\Debug\Schuifpuzzel.Form1.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Schuifpuzzel\obj\Debug\Schuifpuzzel.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Schuifpuzzel\obj\Debug\Schuifpuzzel.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Schuifpuzzel\obj\Debug\Schuifpuzzel.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Schuifpuzzel\obj\Debug\Schuifpuzzel.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Schuifpuzzel\obj\Debug\Schuifpuzzel.csprojResolveAssemblyReference.cache

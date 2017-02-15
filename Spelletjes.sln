@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rush Hour", "Rush Hour\Rush Hour.csproj", "{8A67DD42-849D-4895-9F6A-493FD436F60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lunar Lockout", "Lunar Lockout\Lunar Lockout.csproj", "{9F98AF35-6039-4D38-A6FE-2840662D34DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schuifpuzzel", "Schuifpuzzel\Schuifpuzzel.csproj", "{BE680F22-75F8-4E62-BE16-68FD82EA2FA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Block Dude", "Block Dude\Block Dude.csproj", "{E24C9B5A-056A-4534-BA9E-4B4438B1CB26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoGetter", "GoGetter\GoGetter.csproj", "{889C4A32-8278-4CC4-B268-E02E58C31448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic Tac Toe", "Tic Tac Toe\Tic Tac Toe.csproj", "{5CEFA512-5043-4000-8909-45B58255C276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A67DD42-849D-4895-9F6A-493FD436F60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A67DD42-849D-4895-9F6A-493FD436F60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A67DD42-849D-4895-9F6A-493FD436F60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A67DD42-849D-4895-9F6A-493FD436F60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F98AF35-6039-4D38-A6FE-2840662D34DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F98AF35-6039-4D38-A6FE-2840662D34DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F98AF35-6039-4D38-A6FE-2840662D34DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F98AF35-6039-4D38-A6FE-2840662D34DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE680F22-75F8-4E62-BE16-68FD82EA2FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE680F22-75F8-4E62-BE16-68FD82EA2FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE680F22-75F8-4E62-BE16-68FD82EA2FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE680F22-75F8-4E62-BE16-68FD82EA2FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24C9B5A-056A-4534-BA9E-4B4438B1CB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24C9B5A-056A-4534-BA9E-4B4438B1CB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24C9B5A-056A-4534-BA9E-4B4438B1CB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24C9B5A-056A-4534-BA9E-4B4438B1CB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889C4A32-8278-4CC4-B268-E02E58C31448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889C4A32-8278-4CC4-B268-E02E58C31448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889C4A32-8278-4CC4-B268-E02E58C31448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889C4A32-8278-4CC4-B268-E02E58C31448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CEFA512-5043-4000-8909-45B58255C276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEFA512-5043-4000-8909-45B58255C276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEFA512-5043-4000-8909-45B58255C276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEFA512-5043-4000-8909-45B58255C276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

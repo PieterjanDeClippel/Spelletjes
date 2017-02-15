@@ -1,0 +1,17 @@
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Lunar Lockout\bin\Debug\Lunar Lockout.exe.config
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Lunar Lockout\bin\Debug\Lunar Lockout.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Lunar Lockout\bin\Debug\Lunar Lockout.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Lunar Lockout\obj\Debug\Lunar Lockout.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Lunar Lockout\obj\Debug\Lunar_Lockout.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Lunar Lockout\obj\Debug\Lunar Lockout.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Lunar Lockout\obj\Debug\Lunar Lockout.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Spelletjes\Lunar Lockout\obj\Debug\Lunar Lockout.pdb
+C:\Users\Pieterjan\Downloads\SpelletjesSource\Spelletjes\Lunar Lockout\bin\Debug\Lunar Lockout.exe.config
+C:\Users\Pieterjan\Downloads\SpelletjesSource\Spelletjes\Lunar Lockout\obj\Debug\Lunar Lockout.exe
+C:\Users\Pieterjan\Downloads\SpelletjesSource\Spelletjes\Lunar Lockout\obj\Debug\Lunar Lockout.pdb
+C:\Users\Pieterjan\Downloads\SpelletjesSource\Spelletjes\Lunar Lockout\bin\Debug\Lunar Lockout.exe
+C:\Users\Pieterjan\Downloads\SpelletjesSource\Spelletjes\Lunar Lockout\bin\Debug\Lunar Lockout.pdb
+C:\Users\Pieterjan\Downloads\SpelletjesSource\Spelletjes\Lunar Lockout\obj\Debug\Lunar Lockout.csprojResolveAssemblyReference.cache
+C:\Users\Pieterjan\Downloads\SpelletjesSource\Spelletjes\Lunar Lockout\obj\Debug\Lunar_Lockout.Form1.resources
+C:\Users\Pieterjan\Downloads\SpelletjesSource\Spelletjes\Lunar Lockout\obj\Debug\Lunar_Lockout.Properties.Resources.resources
+C:\Users\Pieterjan\Downloads\SpelletjesSource\Spelletjes\Lunar Lockout\obj\Debug\Lunar Lockout.csproj.GenerateResource.Cache
